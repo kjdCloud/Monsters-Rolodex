@@ -1,2 +1,2 @@
 # Monsters-Rolodex
-This project is made the basic concepts in Reacts development
+This project is made up of the basic concepts in Reacts development
